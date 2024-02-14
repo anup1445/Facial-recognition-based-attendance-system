@@ -1,5 +1,5 @@
 # Facial-recognition-based-attendance-system
-This repository contains the implementation of a face recognition model using Siamese Networks. Siamese Networks are a type of neural network architecture that learns to differentiate between inputs by comparing them, commonly used in tasks such as face recognition, signature verification, and similarity detection.
+This is the implementation of a face recognition model using Siamese Networks. Siamese Networks are a type of neural network architecture that learns to differentiate between inputs by comparing them, commonly used in tasks such as face recognition, signature verification, and similarity detection.
 
 Overview
 This project aims to provide a robust and efficient solution for face recognition tasks. The model takes a pair of facial images as input and outputs a similarity score indicating how likely the two faces belong to the same person. The key components of the project include:
