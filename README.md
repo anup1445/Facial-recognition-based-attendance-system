@@ -1,11 +1,4 @@
 # Facial-recognition-based-attendance-system
-
-
-User
-i have made a face recognition model using siamese networks , give me a proper readme to add on the github
-ChatGPT
-Face Recognition using Siamese Networks
-
 This repository contains the implementation of a face recognition model using Siamese Networks. Siamese Networks are a type of neural network architecture that learns to differentiate between inputs by comparing them, commonly used in tasks such as face recognition, signature verification, and similarity detection.
 
 Overview
