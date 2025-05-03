@@ -56,7 +56,7 @@ OpenCV (>=4.0)
 NumPy
 Matplotlib
 scikit-learn
-
+```
  Use Cases
 Automated attendance systems in schools and workplaces.
 
@@ -65,6 +65,7 @@ Secure login systems using face verification.
 Access control based on facial recognition.
 
 📁 Project Structure
+```bash
 ├── data/                  # Dataset directory
 ├── models/                # Saved model checkpoints
 ├── utils/                 # Helper functions (e.g., data loading, preprocessing)
@@ -72,7 +73,7 @@ Access control based on facial recognition.
 ├── evaluate.py            # Model evaluation and testing
 ├── requirements.txt       # List of dependencies
 └── README.md              # Project documentation
-
+```
 
 🤝 Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
